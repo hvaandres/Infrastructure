@@ -1,1 +1,2 @@
 # Infrastructure
+This is a new project where I will be collecting new projects for my new portafolio where this will include DevOps, Automation, Site Reliability, CI/CD Pipelines, etc. Stay tune to this projects since I will be adding best practices for Azure and Back-End Development.
